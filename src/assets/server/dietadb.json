@@ -1,0 +1,126 @@
+[
+    {
+     "Categoria": 1,
+     "Dieta": "Ensalada de pimientos y tomate asados. Judías blancas con verduras. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Ensalada mixta. Conejo al ajillo. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Ensalada de lombarda, manzana y brotes de soja. Sardinas al horno. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Brochetas de verduras. Garbanzos con setas. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Queso fresco desnatado con 2 biscotes integrales"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Yogur desnatado. Fruta"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Champiñones rehogados. Pavo a la plancha. Yogur desnatado"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Berenjenas rellenas de verduras. Yogur desnatado"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Ensalada de lechuga. Revuelto de espárragos. Cuajada con miel"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Frutos secos tostados sin sal"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Proteinas"
+    },
+    {
+     "Categoria": 1,
+     "Dieta": "Harinas "
+    },
+    {
+     "Categoria": 2,
+     "Dieta": "Ensalada de lombarda, manzana y brotes de soja. Sardinas al horno. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 2,
+     "Dieta": "Brochetas de verduras. Garbanzos con setas. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 2,
+     "Dieta": "Champiñones rehogados. Pavo a la plancha. Yogur desnatado"
+    },
+    {
+     "Categoria": 2,
+     "Dieta": "Ensalada de lechuga. Revuelto de espárragos. Cuajada con miel"
+    },
+    {
+     "Categoria": 2,
+     "Dieta": "Frutos secos tostados sin sal"
+    },
+    {
+     "Categoria": 2,
+     "Dieta": "Proteinas"
+    },
+    {
+     "Categoria": 3,
+     "Dieta": "Ensalada de pimientos y tomate asados. Judías blancas con verduras. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 3,
+     "Dieta": "Ensalada de lombarda, manzana y brotes de soja. Sardinas al horno. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 3,
+     "Dieta": "Queso fresco desnatado con 2 biscotes integrales"
+    },
+    {
+     "Categoria": 3,
+     "Dieta": "Champiñones rehogados. Pavo a la plancha. Yogur desnatado"
+    },
+    {
+     "Categoria": 3,
+     "Dieta": "pescados"
+    },
+    {
+     "Categoria": 4,
+     "Dieta": "Ensalada de pimientos y tomate asados. Judías blancas con verduras. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 4,
+     "Dieta": "Yogur desnatado. Fruta"
+    },
+    {
+     "Categoria": 4,
+     "Dieta": "Champiñones rehogados. Pavo a la plancha. Yogur desnatado"
+    },
+    {
+     "Categoria": 4,
+     "Dieta": "Frutos secos tostados sin sal"
+    },
+    {
+     "Categoria": 4,
+     "Dieta": "pescados"
+    },
+    {
+     "Categoria": 5,
+     "Dieta": "Ensalada mixta. Conejo al ajillo. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 5,
+     "Dieta": "Brochetas de verduras. Garbanzos con setas. Pan integral. Fruta"
+    },
+    {
+     "Categoria": 5,
+     "Dieta": "pescados"
+    }
+   ]
